@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there! 👋 I'm Bruno Fernandes
 
-<!--
-**bdof2001/bdof2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student at ISEP  
+💻 Experience in software development with C#, ASP.NET, and web technologies like React, Vue, and Node.js  
+🔧 Skilled in hardware maintenance, networking, and virtualization  
+📍 Interested in agile development, backend, and API integration  
+🌱 Currently focused on learning more about data structures, clean code practices, and building real-world projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Technologies I've worked with:**
+- Languages: C#, Java, Python, C, JavaScript, HTML, CSS, PHP, SQL  
+- Frameworks: React, Vue, Node.js, ASP.NET  
+- Other skills: Virtualization, Cloud, network setup
+
+---
+
+📫 **Get in touch:**
+- Email: bdof2001@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/bdof2001) 
+
+🚀 Always open to learning, collaborating, and growing!

@@ -10,7 +10,7 @@
 
 🛠️ **Technologies I've worked with:**
 - Languages: C#, Java, Python, C, JavaScript, HTML, CSS, PHP, SQL  
-- Frameworks: React, Vue, Node.js, ASP.NET  
+- Frameworks: React, Node.js, ASP.NET  
 - Other skills: Virtualization, Cloud, network setup
 
 ---

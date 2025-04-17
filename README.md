@@ -1,7 +1,7 @@
 ### Hi there! 👋 I'm Bruno Fernandes
 
 🎓 Computer Engineering student at ISEP  
-💻 Experience in software development with Java, C#, ASP.NET, and web technologies like React and Node.js  
+💻 Experience in software development with Java, C#, ASP.NET, and web technologies like React 
 🔧 Skilled in hardware maintenance, networking, and virtualization  
 📍 Interested in agile development, backend, and API integration  
 🌱 Currently focused on learning more about data structures, clean code practices, and building real-world projects
